@@ -45,6 +45,9 @@ var server = http.createServer((req, res) => {
 console.log(`server is listening for connections on port 8000`)
 server.listen(8000)
 
+// listening on port 8000 - 
+// the way ports work - 
+
 // 127.0.0.1 = the local IP address
 // Research your host file
 
